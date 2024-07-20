@@ -1,0 +1,1 @@
+This repo contains a single Jupyter notebook where I have used Pytorch to explore the activations of different layers of an LLM, building on an example provided by Aryan Bhatt in his work on Coup Probes, which analyse the activations of LLMs to catch unsafe final layer outputs
